@@ -1,0 +1,24 @@
+.score-board {
+  width: 320px;
+  display: grid;
+  grid-auto-flow: column;
+  margin-top: 5px;
+}
+
+.score-board div {
+  color: white;
+  text-align: center;
+  font-size: 2em;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.scoreO {
+  background-color: #61bb46;
+  border-radius: 0px 25px 25px 0;
+}
+
+.scoreX {
+  background-color: #e03a3e;
+  border-radius: 25px 0 0 25px;
+}

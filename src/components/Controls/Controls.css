@@ -1,0 +1,18 @@
+.controls-container {
+  width: 320px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+
+.controls-container button {
+  color: white;
+  border: none;
+  width: 35%;
+  text-align: center;
+  font-size: 1em;
+  padding: 5px;
+  font-weight: bold;
+  background-color: #848484;
+  border-radius: 25px;
+}
