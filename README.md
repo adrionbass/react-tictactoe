@@ -1,6 +1,6 @@
 # #REACT #HOOKS #CssKeyframeAnimations #CLASSNAMES-LIB #JAVASCRIPT
 ***Deploy: https://adrionbass.github.io/react-tictactoe/***
 
-**Just a Tic-Tac-Toe webapp**
+**Classic Tic Tac Toe with score, game and/or turn restart, and CSS animations #animation #keyframes**
 * * * *
-**Clásico Ta-Te-Ti**
+**Ta Te Ti o Tic Tac Toe clásico con puntaje, reinicio de partida y/o de turno, y animaciones CSS #animation #keyframes**
